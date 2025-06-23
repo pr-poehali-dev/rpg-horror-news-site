@@ -53,7 +53,8 @@ export default {
           foreground: "hsl(var(--card-foreground))",
         },
         horror: {
-          dark: "#1a1021",
+          dark: "#352D2D",
+          brown: "#4a3d3d",
           purple: "#8B5CF6",
           blood: "#DC2626",
           mist: "#6B7280",
